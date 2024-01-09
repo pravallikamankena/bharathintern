@@ -31,8 +31,23 @@
 
     <section id="contact">
         <h2>contact:8019XXXXXX</h2>
+</section>
+<section id="hobbies">
+<h2>Hobbies<h2>
+<ul>
+<li>Reading</li>
+<li>Painting</li>
+<li>listening Music</li>
+</ul>
 
     </section>
+<section id="accomplishments">
+
+<h2>Accomplishments<h2>
+    <ul>
+<li>One of the member of the Street Cause</li>
+<li>Achieved Silver medal on the occassion of Academic Execellence<li>
+</ul>
 
     <footer>
         <p>&copy; 2023 Pravallika</p>
